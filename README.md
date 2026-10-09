@@ -15,7 +15,3 @@ Backend-focused software engineer and Information Systems student at University 
 
 - **Multi-tenant Restaurant Platform** ([lamua.vn](https://www.lamua.vn)): REST APIs for menu, ordering, reservations, and payments, with MoMo and VNPay integration (internship project at SGOD).
 - **HIVEK**: AI-assisted marketing platform.
-
-## Currently exploring
-
-Distributed systems patterns, and making coding agents follow architecture conventions by default.
