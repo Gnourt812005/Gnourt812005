@@ -1,34 +1,21 @@
-<!--
-**Gnourt812005/Gnourt812005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+# Hi, I'm Truong 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend-focused software engineer and Information Systems student at University of Science, VNU-HCM (expected graduation Sep. 2027). I build multi-tenant and microservices backends with NestJS, and I care about maintainable architecture, reliable workflows, and AI-assisted development.
 
-# 👋 Hi, I'm Gnourt!
+## What I work with
 
-<!-- Fill in your introduction here -->
-I'm a passionate developer who enjoys building tools, games, and data-driven applications.  
-<!-- Add your interests, tech stack, or mission -->
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Backend:** NestJS, FastAPI, gRPC
+- **Data:** MongoDB, PostgreSQL, Redis
+- **Messaging & workflows:** RabbitMQ, Temporal
+- **Tools:** Git, Docker, Linux
+- **Architecture:** Clean Architecture, Event-Driven Architecture, Microservice
 
----
+## Featured work
 
-## 🛠️ Languages and Tools
+- **Multi-tenant Restaurant Platform** ([lamua.vn](https://www.lamua.vn)): REST APIs for menu, ordering, reservations, and payments, with MoMo and VNPay integration (internship project at SGOD).
+- **HIVEK**: AI-assisted marketing platform.
 
-<!-- Top languages by repo contribution -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnourt812005&layout=compact&langs_count=8&theme=dracula)
+## Currently exploring
 
----
-
-## 📈 GitHub Stats
-
-<!-- GitHub stats -->
-![Gnourt812005's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnourt812005&show_icons=true&theme=dracula)
-
+Distributed systems patterns, and making coding agents follow architecture conventions by default.
